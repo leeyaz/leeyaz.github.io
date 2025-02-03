@@ -1,5 +1,5 @@
 .banner {
-    background: url('cookie_image.jpg') no-repeat center center;
+    background: url('../images/cookie_image.jpg') no-repeat center center;
     background-size: cover;
     height: 300px;
     display: flex;
