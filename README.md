@@ -1,2 +1,2 @@
 # leeyaz.github.io
-my website.
+my website  :)
