@@ -13,3 +13,15 @@
 .sidenote {
     align-items: right;
 }
+
+.projects_square {
+    position:sticky;
+    left:50px;
+    width:100px;
+    height: 300px;
+    background-color: aquamarine;
+    justify-content: flex-end;
+    align-items: flex-start;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
